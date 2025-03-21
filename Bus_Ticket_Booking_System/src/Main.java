@@ -1,0 +1,8 @@
+import view.LogIn;
+
+public class Main {
+    public static void main(String[] args) {
+        new LogIn().login();
+    }
+}
+
